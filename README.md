@@ -4,7 +4,7 @@ This project showcases a fully interactive **Power BI dashboard** that analyzes 
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 The **Instagram Influencer Dashboard** is a Power BI project designed to analyze and visualize the performance of influencers across various countries and content categories. It leverages key social media metrics such as follower growth, engagement rates, post reach, and monetization status to provide actionable insights for brands, marketers, and influencer agencies.
 
@@ -16,15 +16,15 @@ This project demonstrates my ability to:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 - `Instagram_Influencer_Analysis.pbix` – Main Power BI dashboard
-- `influencer_data.csv` – Cleaned dataset (demo only)
-- `dashboard_screenshot.png` – Snapshot of the final dashboard
+- `influencer.csv` – Cleaned dataset (demo only)
+- `dashboard_screenshot.png` – Sample Snapshot of the final dashboard
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
 - Visualizes key influencer metrics: Follower Count, Engagement Rate, Post Reach, Impressions
 - Filters by **Country**, **Content Category**, and **Monetization Status**
@@ -33,7 +33,7 @@ This project demonstrates my ability to:
 
 ---
 
-## 🎯 Outcome
+##  Outcome
 
 - Identified top-performing influencers based on engagement and reach
 - Provided insights into marketable influencers for brand partnerships
@@ -41,7 +41,7 @@ This project demonstrates my ability to:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Power BI** for dashboard creation
 - **Excel** and **Power Query** for preprocessing
@@ -49,13 +49,13 @@ This project demonstrates my ability to:
 
 ---
 
-## 📌 Screenshots
+##  Screenshots
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
 
-## 📚 Insights Example
+##  Insights Example
 
 > "Influencers from the **Fashion** and **Fitness** categories showed the highest average engagement rates, with verified profiles generating significantly more impressions. Countries like USA, India, and Brazil dominated influencer activity."
 
@@ -64,7 +64,7 @@ This project demonstrates my ability to:
 ## 👨‍💻 Author
 
 **Vinothkumar V**  
-[LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:vinothkumar07vel@gmail.com)
+[Email](mailto:vinothkumar07vel@gmail.com)
 
 ---
 
