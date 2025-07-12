@@ -1,6 +1,4 @@
-# Instagram-Influencers---Dashboard
-Interactive Power BI dashboard analyzing Instagram influencer performance
-# 📊 Instagram Influencer Dashboard (Power BI)
+#  Instagram Influencer Dashboard (Power BI)
 
 This project showcases a fully interactive **Power BI dashboard** that analyzes performance, reach, and engagement of Instagram influencers across various metrics and demographics.
 
