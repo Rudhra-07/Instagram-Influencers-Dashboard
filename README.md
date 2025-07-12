@@ -51,7 +51,7 @@ This project demonstrates my ability to:
 
 ##  Screenshots
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/Rudhra-07/Instagram-Influencers-Dashboard/blob/main/Sample%20Dashboard.png)
 
 ---
 
@@ -64,7 +64,7 @@ This project demonstrates my ability to:
 ## 👨‍💻 Author
 
 **Vinothkumar V**  
-[Email](mailto:vinothkumar07vel@gmail.com)
+**[mailto:vinothkumar07vel@gmail.com]**
 
 ---
 
