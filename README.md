@@ -49,7 +49,7 @@ This project demonstrates my ability to:
 
 ---
 
-##  Screenshots
+## 📷 Sample Screenshots
 
 ![Dashboard Screenshot](https://github.com/Rudhra-07/Instagram-Influencers-Dashboard/blob/main/Sample%20Dashboard.png)
 
